@@ -1,4 +1,4 @@
 {
-    "status": 200,
-    "message": "Hello World"
+    "status": 503,
+    "message": "muzmatch isn't available right now"
 }
