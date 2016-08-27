@@ -1,4 +1,4 @@
 {
-    "status": 503,
-    "message": "The new muzmatch isn't available just yet, please check back later. There's no need to delete or reinstall your app."
+    "status": 200,
+    "message": "No reported issues or outages."
 }
