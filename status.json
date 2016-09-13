@@ -1,4 +1,4 @@
 {
-    "status": 503,
-    "message": "We're currently carrying out important maintenance, we'll be back within the hour.\n\nThere's no need to delete or reinstall your app."
+    "status": 200,
+    "message": "No reported issues or outages."
 }
