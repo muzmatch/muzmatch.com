@@ -1,4 +1,4 @@
 {
-    "status": 200,
-    "message": "No reported issues or outages."
+    "status": 503,
+    "message": "We're currently carrying out important maintenance, we'll be back within the hour."
 }
