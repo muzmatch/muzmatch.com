@@ -1,4 +1,4 @@
 {
-    "status": 200,
-    "message": "No reported issues or outages."
+    "status": 500,
+    "message": "We're experiencing some issues and will be back shortly."
 }
