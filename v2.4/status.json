@@ -1,4 +1,4 @@
 {
-    "status": 200,
-    "message": "muzmatch should be working fine for you - try disable wifi and see if that helps!\n\nThere's no need to delete or reinstall your app"
+    "status": 500,
+    "message": "muzmatch will be unavailable until 10:30 GMT while we carry out upgrades to our infrastructure\n\nThere's no need to delete or reinstall your app"
 }
