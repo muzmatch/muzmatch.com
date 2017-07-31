@@ -1,4 +1,4 @@
 {
-    "status": 200,
-    "message": "muzmatch are not reporting any issues.\n\nThere's no need to delete or reinstall your app"
+    "status": 500,
+    "message": "muzmatch will be unavailable until 4:00 GMT while we carry out upgrades to our infrastructure\n\nThere's no need to delete or reinstall your app"
 }
